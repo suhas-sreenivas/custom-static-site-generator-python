@@ -1,0 +1,7 @@
+{% extends "main.html" %}
+{% block content %}
+    <h1>Posts</h1>
+    {% for title, path in posts_info.items() %}
+        <p><a href="{{ path }}">{{ title }}</a></p>
+    {% endfor %}
+{% endblock content%}

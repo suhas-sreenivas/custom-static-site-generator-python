@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-155059967-1"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'UA-155059967-1');
+        </script>
+        <meta charset="UTF-8"/>
+        <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0' />
+        <title>Suhas</title>
+        <link rel='stylesheet' href='/styles.css'>
+        <link href="https://fonts.googleapis.com/css?family=Merriweather:300,400,700,900&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        
+        <div class="menu-container">
+            <div class="website-title"><a href="/index.html">suhas sreenivas</a></div>
+            <div class="menu">
+                <a href="https://github.com/suhas-sreenivas" class="menu-item">github</a>
+                <a href="https://twitter.com/suhas_sreenivas" class="menu-item">twitter</a>
+                <a href="/blog/index.html" class="menu-item">blog</a>
+            </div>
+        </div>
+        
+        <div class="page">
+            
+            <div class="content">
+                {% block content %}
+                    {{ article }}
+                {% endblock content%}
+            </div>
+    
+        </div>
+    </body>
+</html>

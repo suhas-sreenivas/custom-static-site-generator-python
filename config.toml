@@ -1,0 +1,3 @@
+#set path to store generated files in
+
+site_gen_path = "C:/site_gen/"
