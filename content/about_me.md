@@ -2,11 +2,11 @@
 
 **Projects I'm working on:**
 
-Writing a python static site generator using jinja2 and markdown2 and using it to generate this site - [repo]()
+Writing a python static site generator using jinja2 and markdown2 and using it to generate this site - [repo](https://github.com/suhas-sreenivas/custom-static-site-generator-python)
 
 Processing logs using PySpark
 
-(unofficial)Heart and Brain webcomic [api](http://heartandbrain.pythonanywhere.com/)! - made with Django Rest Framework - [repo]()
+(unofficial)Heart and Brain webcomic [api](http://heartandbrain.pythonanywhere.com/)! - made with Django Rest Framework - [repo](https://github.com/suhas-sreenivas/heart_and_brain_api)
 
 **Podcasts I enjoy:**
 
