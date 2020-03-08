@@ -10,9 +10,9 @@ Processing logs using PySpark
 
 **Podcasts I enjoy:**
 
-[Talk Python to me](https://talkpython.fm/) - Deep dives on a python topics with interesting people who are working it. This is my go to python podcast.
+[Talk Python to me](https://talkpython.fm/) - Deep dives on python topics with interesting people who are working it. This is my go to python podcast.
 
-[Command line heroes](https://www.redhat.com/en/command-line-heroes) - By RedHat. Best history lessons in under a half hour. This season is about programming languages. The previous seasons had episodes on the origin of DevOps, Agile, OS wars etc.  
+[Command line heroes](https://www.redhat.com/en/command-line-heroes) - By RedHat. Best history lessons in under a half hour. Season 3 was about programming languages. The previous seasons had episodes on the origin of DevOps, Agile, OS wars etc.  
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Learning why and when a tool or process was created helps me understand CS better. The command line heroes podcast by <a href="https://twitter.com/RedHat?ref_src=twsrc%5Etfw">@RedHat</a>, hosted by <a href="https://twitter.com/saronyitbarek?ref_src=twsrc%5Etfw">@saronyitbarek</a> has the best history lessons under a half hour. Especially loved how the episodes on Agile, DevOps and containers are related.</p>&mdash; Suhas Sreenivas (@suhas_sreenivas) <a href="https://twitter.com/suhas_sreenivas/status/1152047634452033537?ref_src=twsrc%5Etfw">July 19, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 **Some old projects:**
