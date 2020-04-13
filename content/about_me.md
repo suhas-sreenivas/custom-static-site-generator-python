@@ -1,10 +1,11 @@
 # About Me
 
-**Projects I'm working on:**
+**Stuff I did recently:**
+
+Gave a lightning talk on how I use Hypothesis, a python library, to test solutions to coding interview problems. Presented at Chicago Python WebDev / DevOps SIG presents Service Oriented Architecture.  
+[video](https://youtu.be/O9jKxr9mR5w?t=3282) - [repo](https://github.com/suhas-sreenivas/talks/tree/master/testing_with_hypothesis) - [slides](https://docs.google.com/presentation/d/1EAOMNLFb85HxdV4NleAIWX01o0CF3zZVVwU4pCxY-0o/edit?usp=sharing)
 
 Writing a python static site generator using jinja2 and markdown2 and using it to generate this site - [repo](https://github.com/suhas-sreenivas/custom-static-site-generator-python)
-
-Processing logs using PySpark
 
 (unofficial)Heart and Brain webcomic [api](http://heartandbrain.pythonanywhere.com/)! - made with Django Rest Framework - [repo](https://github.com/suhas-sreenivas/heart_and_brain_api)
 
